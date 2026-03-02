@@ -1,4 +1,4 @@
-# Tagged Snapshots
+# Tagged Snapshots (VS Code Extension)
 
 <p align="center">
   <img src="images/icon.png" alt="Tagged Snapshots Logo" width="120"/>
